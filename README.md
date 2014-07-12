@@ -9,6 +9,7 @@ This is a submission for the 2014 ten.java contest. Late start, started at 10:00
 - __Time:__ Time 3 (7/12/2014 14:00 to 7/13/2014 00:00 UTC)
 - __MC Version:__ 1.7.9 (latest Bukkit beta)
 - __Stream URL:__ https://twitch.tv/gamecube762 - Streaming might not be available due to internet problems
+- __MC test server IP:__ mc.theminepitt.com:28868 - Will be getting a lot of restarts for testing
 
 <!-- put chosen theme above -->
 
