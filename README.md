@@ -3,12 +3,12 @@ Gamecube762's ten.java submission
 
 [![ten.java](https://cdn.mediacru.sh/hu4CJqRD7AiB.svg)](https://tenjava.com/)
 
-This is a submission for the 2014 ten.java contest.
+This is a submission for the 2014 ten.java contest. Late start, started at 10:00 PST (t3 starts at 7:00).
 
-- __Theme:__
+- __Theme:__ What random events can occur in Minecraft?
 - __Time:__ Time 3 (7/12/2014 14:00 to 7/13/2014 00:00 UTC)
 - __MC Version:__ 1.7.9 (latest Bukkit beta)
-- __Stream URL:__ https://twitch.tv/gamecube762
+- __Stream URL:__ https://twitch.tv/gamecube762 - Streaming might not be available due to internet problems
 
 <!-- put chosen theme above -->
 
